@@ -5,6 +5,8 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 * Alice Kehl Alves.
 * 15 anos.
+* Palhoça, Santa Catarina.
+* Cursando o 2º ano do Ensino Médio integrado a Desenvolvimentos de Sistemas.
 * Focada, esforçada e criativa.
 
 ## Formação Acadêmica
