@@ -3,5 +3,5 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 ## Habilidades
 <b> negrito </b> <i> italico </i>
 
-' Item 1
+* Item 1
 Item 2
