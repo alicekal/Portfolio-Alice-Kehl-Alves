@@ -6,6 +6,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * Alice Kehl Alves.
 * 15 anos.
 * Palhoça, Santa Catarina.
+* Contato: alice_k_alves@estudante.sc.senai.br.
 * Cursando o 2º ano do Ensino Médio integrado a Desenvolvimentos de Sistemas.
 * Focada, esforçada e criativa.
 
