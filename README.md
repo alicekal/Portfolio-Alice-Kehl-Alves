@@ -17,6 +17,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 * <b>Inglês Intermediário</b>, por cursos e aplicativos na internet, fora a base escolar.
 * <b>Base em Espanhol</b>, estudada por três anos, do 6º ao 8º do Ensino Fundamental.
+* <b>Grande dominação da Língua Portuguesa</b>, tendo familiaridade com regras de escrita (como vírgula, crase e etc).
 * <b>Mixagem de músicas</b>, aprendizagem própria realizada em aplicativos de edição, cortando, misturando e editando músicas.
 * <b>Edição de imagem</b>, usando aplicativos e sites próprios para isso e editando ou fazendo montagens em imagens.
 * <b>Boa escrita e correção</b>, conseguida ao longo dos anos com muita leitura e prática.
