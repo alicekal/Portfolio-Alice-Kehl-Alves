@@ -1,11 +1,12 @@
-#Avaliação Prática
+- Avaliação Prática
 
-##Questão 1
+ Questão 1
 
-#!/bin/bash
+!/bin/bash
 info=$ls -l $1
 echo $info
 
-##Questão 2
-#!/bin/bash
+ Questão 2
+
+!/bin/bash
 cat /etc/passwd | cut -d":" -f1 | sort
