@@ -39,6 +39,8 @@ Fundamentos de Redes de Computadores
 
 Fundamentos de Tecnologia da Informação
 
+* [Avaliação Prática](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/fundamentosTI/exemplos)
+
 Lógica Computacional
 
 Lógica de Programação
