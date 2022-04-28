@@ -29,7 +29,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * <b>Boa em liderança</b>, conseguindo organizar grupos e trabalhos e, geralmente, ser a pessoa que divide os papéis e ajuda as outras pessoas.
 * <b>Comunicativa e fácil de socialização</b>, auxiliando em apresentação de trabalhos e projetos e facilitando a convivência em equipe.
 
-## <b>🖊 Segundo Ano 🖊</b>
+## <b>🖊 2021 🖊</b>
 
  Banco de Dados
 
@@ -43,7 +43,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
  Lógica de Programação
 
-## <b>🖊 Terceiro Ano 🖊</b>
+## <b>🖊 2022 🖊</b>
 
  Programação de Aplicativos
 
