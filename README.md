@@ -7,7 +7,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * 16 anos.
 * Palhoça, Santa Catarina.
 * Contato: alice_k_alves@estudante.sc.senai.br.
-* Cursando o 2º ano do Ensino Médio integrado a Desenvolvimentos de Sistemas.
+* Cursando o 3º ano do Ensino Médio integrado a Desenvolvimentos de Sistemas.
 * Focada, esforçada e criativa.
 
 ## Formação Acadêmica
@@ -30,6 +30,18 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * <b>Comunicativa e fácil de socialização</b>, auxiliando em apresentação de trabalhos e projetos e facilitando a convivência em equipe.
 
 ## <b>🖊 Segundo Ano 🖊</b>
+
+## Banco de Dados
+
+## Fundamentos de Design
+
+## Fundamentos de Redes de Computadores
+
+## Fundamentos de Tecnologia da Informação
+
+## Lógica Computacional
+
+## Lógica de Programação
 
 ## <b>🖊 Terceiro Ano 🖊</b>
 
