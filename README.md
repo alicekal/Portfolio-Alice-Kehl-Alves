@@ -55,3 +55,8 @@ Banco de Dados
 * [Trabalho Museu Códigos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados/atividademuseu.sql)
 
 Modelagem de Sistemas
+
+* [Diagrama Guru do Amor](https://drive.google.com/file/d/19mNDhO8V3UjURRhF0zd_1pq5vCdJ60O8/view?usp=sharing)
+* [Diagrama Jogos Vorazes](https://drive.google.com/file/d/1kQtca4oFuFixPmKLCs-GfXmU0d9LL5as/view?usp=sharing)
+* [Códigos do REPLIT](https://replit.com/@aklice/RespectfulLastingDeal#presidiário/Pessoa.java)
+* [Figma de Agiotagem](https://www.figma.com/proto/OPSvyCtBvQAax7GFAglPk6/agiotagem?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
