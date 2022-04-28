@@ -50,5 +50,8 @@ Programação de Aplicativos
 Banco de Dados
 
 * [Atividade Avaliativa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados/atividadeavaliativa.sql)
+* [Atividade Zoológico Diagrama ER](https://drive.google.com/file/d/1MBtlV1-zTDEbebQYTb5h0m1D83Nk-EHb/view?usp=sharing)
+* [Atividade Zoológico](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados/codigoszoologico.sql)
+* [Trabalho Museu Códigos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados/atividademuseu.sql)
 
 Modelagem de Sistemas
