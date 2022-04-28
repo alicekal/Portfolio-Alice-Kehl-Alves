@@ -29,6 +29,14 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * <b>Boa em liderança</b>, conseguindo organizar grupos e trabalhos e, geralmente, ser a pessoa que divide os papéis e ajuda as outras pessoas.
 * <b>Comunicativa e fácil de socialização</b>, auxiliando em apresentação de trabalhos e projetos e facilitando a convivência em equipe.
 
+# Segundo Ano
+
+# Terceiro Ano
+
+## Programação de Aplicativos
+
 ## Banco de Dados
 
 [Atividade Avaliativa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados/atividadeavaliativa.sql)
+
+## Modelagem de Sistemas
