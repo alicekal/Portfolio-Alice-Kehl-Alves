@@ -47,6 +47,11 @@ Lógica de Programação
 
 Programação de Aplicativos
 
+* [Atividade Tela Celular](https://docs.google.com/document/d/1Mel3yRDw8KxHC-U3wjfd6tEzG489Xllf7mPvWtlEh8s/edit?usp=sharing)
+* [Calculadora Geometria Espacial](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/ColaGeometriaEspacial%20(1).zip)
+* [Cadastro de Perfis](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/vanessa.zip)
+* [Randomização de Dados](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/Random.zip)
+
 Banco de Dados
 
 * [Atividade Avaliativa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados/atividadeavaliativa.sql)
