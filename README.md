@@ -33,17 +33,17 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 <b>Banco de Dados</b>
 
-Fundamentos de Design
+<b>Fundamentos de Design</b>
 
-Fundamentos de Redes de Computadores
+<b>Fundamentos de Redes de Computadores</b>
 
-Fundamentos de Tecnologia da Informação
+<b>Fundamentos de Tecnologia da Informação</b>
 
 * [Avaliação Prática](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/fundamentosTI/exemplos)
 
-Lógica Computacional
+<b>Lógica Computacional</b>
 
-Lógica de Programação
+<b>Lógica de Programação</b>
 
 ## <b>🖊 2022 🖊</b>
 
