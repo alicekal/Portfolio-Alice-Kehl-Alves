@@ -31,24 +31,24 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 ## <b>🖊 Segundo Ano 🖊</b>
 
-# Banco de Dados
+ Banco de Dados
 
-# Fundamentos de Design
+ Fundamentos de Design
 
-# Fundamentos de Redes de Computadores
+ Fundamentos de Redes de Computadores
 
-# Fundamentos de Tecnologia da Informação
+ Fundamentos de Tecnologia da Informação
 
-# Lógica Computacional
+ Lógica Computacional
 
-# Lógica de Programação
+ Lógica de Programação
 
 ## <b>🖊 Terceiro Ano 🖊</b>
 
-# Programação de Aplicativos
+ Programação de Aplicativos
 
-# Banco de Dados
+ Banco de Dados
 
 [Atividade Avaliativa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados/atividadeavaliativa.sql)
 
-# Modelagem de Sistemas
+ Modelagem de Sistemas
