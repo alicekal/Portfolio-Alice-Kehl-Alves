@@ -31,7 +31,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 ## <b>🖊 2021 🖊</b>
 
-Banco de Dados
+<b>Banco de Dados</b>
 
 Fundamentos de Design
 
@@ -47,21 +47,21 @@ Lógica de Programação
 
 ## <b>🖊 2022 🖊</b>
 
-Programação de Aplicativos
+<b>Programação de Aplicativos</b>
 
 * [Atividade Tela Celular](https://docs.google.com/document/d/1Mel3yRDw8KxHC-U3wjfd6tEzG489Xllf7mPvWtlEh8s/edit?usp=sharing)
 * [Calculadora Geometria Espacial](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/ColaGeometriaEspacial%20(1).zip)
 * [Cadastro de Perfis](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/vanessa.zip)
 * [Randomização de Dados](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/Random.zip)
 
-Banco de Dados
+<b>Banco de Dados</b>
 
 * [Atividade Avaliativa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados/atividadeavaliativa.sql)
 * [Atividade Zoológico Diagrama ER](https://drive.google.com/file/d/1MBtlV1-zTDEbebQYTb5h0m1D83Nk-EHb/view?usp=sharing)
 * [Atividade Zoológico](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados/codigoszoologico.sql)
 * [Trabalho Museu Códigos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados/atividademuseu.sql)
 
-Modelagem de Sistemas
+<b>Modelagem de Sistemas</b>
 
 * [Diagrama Guru do Amor](https://drive.google.com/file/d/19mNDhO8V3UjURRhF0zd_1pq5vCdJ60O8/view?usp=sharing)
 * [Diagrama Jogos Vorazes](https://drive.google.com/file/d/1kQtca4oFuFixPmKLCs-GfXmU0d9LL5as/view?usp=sharing)
