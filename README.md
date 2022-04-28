@@ -33,17 +33,45 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 <b>Banco de Dados</b>
 
+* []()
+* []()
+* []()
+* []()
+
 <b>Fundamentos de Design</b>
 
+* []()
+* []()
+* []()
+* []()
+
 <b>Fundamentos de Redes de Computadores</b>
+
+* []()
+* []()
+* []()
+* []()
 
 <b>Fundamentos de Tecnologia da Informação</b>
 
 * [Avaliação Prática](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/fundamentosTI/exemplos)
+* []()
+* []()
+* []()
 
 <b>Lógica Computacional</b>
 
+* []()
+* []()
+* []()
+* []()
+
 <b>Lógica de Programação</b>
+
+* []()
+* []()
+* []()
+* []()
 
 ## <b>🖊 2022 🖊</b>
 
