@@ -24,7 +24,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * <b>Mixagem de músicas</b>, aprendizagem própria realizada em aplicativos de edição, cortando, misturando e editando músicas.
 * <b>Edição de imagem</b>, usando aplicativos e sites próprios para isso e editando ou fazendo montagens em imagens.
 * <b>Boa escrita e correção</b>, conseguida ao longo dos anos com muita leitura e prática.
-* <b>Edição e formatação de<i> blogs onlines </i></b>, habilidade conseguida durante a criação de um <i> blog </i>, sendo que estive responsável pelos textos e a parte estética dele.
+* <b>Edição e formatação de<i> blogs onlines</i></b>, habilidade conseguida durante a criação de um <i> blog </i>, sendo que estive responsável pelos textos e a parte estética dele.
 * <b>Boa relação com o design</b>, visto que tenho facilidade ao usar aplicativos para isso e tenho boa noção de cores e combinações.
 * <b>Boa em liderança</b>, conseguindo organizar grupos e trabalhos e, geralmente, ser a pessoa que divide os papéis e ajuda as outras pessoas.
 * <b>Comunicativa e fácil de socialização</b>, auxiliando em apresentação de trabalhos e projetos e facilitando a convivência em equipe.
