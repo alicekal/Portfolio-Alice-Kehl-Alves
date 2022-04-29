@@ -33,7 +33,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 <b>Banco de Dados</b>
 
-* []()
+* [Atividade de Fixação](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2021/atividadefixação.sql)
 * []()
 * []()
 * []()
