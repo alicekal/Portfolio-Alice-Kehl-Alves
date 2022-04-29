@@ -69,7 +69,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 <b>Lógica de Programação</b>
 
-* []()
+* [Código Completo Janela NetBeans](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicaprogramacao/codigocompletojanela.java)
 * []()
 * []()
 * []()
