@@ -6,6 +6,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 <b>Lógica Computacional</b>
 
 * [Exemplo JOptionPane](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional%3B/joptionpane.java)
+jsdpjodsd´ko
 * [Piadas no Java](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional/piadas.java)
 * [Peso Permitido e Multa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional/pesopermitido.java)
 * [Juros Simples e Compostos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional/juros.java)
