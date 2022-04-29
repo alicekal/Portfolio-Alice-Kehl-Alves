@@ -54,16 +54,16 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 <b>Fundamentos de Tecnologia da Informação</b>
 
+* [Número Negativo ou Positivo](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/tree/main/fundamentosTI)
 * [Avaliação Prática](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/fundamentosTI/exemplos)
-* []()
-* []()
-* []()
+* [Idade Permitida para Votar](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/fundamentosTI/permissaovotar.sh)
+* [Valores Produtos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/fundamentosTI/valoresprodutos.sh)
 
 <b>Lógica Computacional</b>
 
 * [Exemplo JOptionPane](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional%3B/joptionpane.java)
 * [Piadas no Java](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional/piadas.java)
-* [Peso permitido e multa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional/pesopermitido.java)
+* [Peso Permitido e Multa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional/pesopermitido.java)
 * [Juros Simples e Compostos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional/juros.java)
 
 <b>Lógica de Programação</b>
