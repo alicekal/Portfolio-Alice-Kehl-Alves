@@ -19,7 +19,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 <b>Fundamentos de Redes de Computadores</b>
 
-* []()
+* [Avaliação Máscara de Redes](https://docs.google.com/document/d/1Z8kKml91VeEphNtsitQ_uAIfGFKD38o2uCOA5ZW7L1g/edit?usp=sharing)
 * []()
 * []()
 * []()
@@ -41,9 +41,9 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 <b>Banco de Dados</b>
 
 * [Atividade de Fixação](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2021/atividadefixação.sql)
-* []()
-* []()
-* []()
+* [Atividade Locação de Filmes](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2021/locacao.sql)
+* [Diagrama ER de Veículos](https://drive.google.com/file/d/1NcOYDk1tJZ1s3--EYKBIr5e2aL3G5Pum/view?usp=sharing)
+* [Diagrama ER de Estoque de Peças](https://drive.google.com/file/d/1c2jO6rocaU6xoqvmM3hTFCovnDzNMhtQ/view?usp=sharing)
 
 ## <b>☆ 3B - 2022 ☆</b>
 
