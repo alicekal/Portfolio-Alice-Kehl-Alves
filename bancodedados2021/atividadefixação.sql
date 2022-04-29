@@ -1,4 +1,4 @@
-create table compras(
+ 1 - create table compras(
 	id serial primary key,
 	obserações varchar (100),
 	data date,
@@ -6,7 +6,7 @@ create table compras(
 	status  boolean
 	);
 
- insert into compras
+ 2 - insert into compras
 (id, obserações, data, preço, status) 
 values
 (1, 'bola de volei', '2019-03-21', 35, false),
@@ -30,14 +30,14 @@ values
 (19, 'livro', '2012-04-01', 40, true),
 (20, 'anel', '2017-12-12', 200, true);
 
-select * from compras where data >= '2021-01-01' and data <= '2021-12-31';
-select obserações from compras where data >= '2021-01-01' and data <= '2021-01-31';
-select observações, id from compras  where id <=20;
-select * from compras where preço >=15 and  preço <=35;
-select * from compras where status =true;
-select * from compras where id =10;
+ 3 - select * from compras where data >= '2021-01-01' and data <= '2021-12-31';
+ 4 - select obserações from compras where data >= '2021-01-01' and data <= '2021-01-31';
+ 5 - select observações, id from compras  where id <=20;
+ 6 - select * from compras where preço >=15 and  preço <=35;
+ 7 - select * from compras where status =true;
+ 8 - select * from compras where id =10;
 
-create table shopping(
+ 9 - create table shopping(
 	id serial primary key,
 	lojas varchar (100),
 	alimentação varchar (100),
