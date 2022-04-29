@@ -19,10 +19,10 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 <b>Fundamentos de Redes de Computadores</b>
 
+* [Redes e Subredes](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/redesdecomputadores/c6cf3005-a3a5-4887-9243-c00305aff1c9.jpg)
 * [Avaliação Máscara de Redes](https://docs.google.com/document/d/1Z8kKml91VeEphNtsitQ_uAIfGFKD38o2uCOA5ZW7L1g/edit?usp=sharing)
-* []()
-* []()
-* []()
+* [Atividade de Redes (parte 1)](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/redesdecomputadores/rc.jpg)
+* [Atividade de Redes (parte 2)](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/redesdecomputadores/20210908_082256.jpg)
 
 <b>Fundamentos de Design</b>
 
