@@ -1,7 +1,7 @@
 # Portfolio-Alice-Kehl-Alves
 Um documento para reunir habilidades e códigos adquiridos ao longo do ano, relacionados ao ensino médio da Escola S integrado ao técnico de Desenvolvimento de Sistemas.
 
-## <b>🖊 2B - 2021 🖊</b>
+## <b>☆ 2B - 2021 ☆</b>
 
 <b>Banco de Dados</b>
 
@@ -46,7 +46,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * []()
 * []()
 
-## <b>🖊 3B - 2022 🖊</b>
+## <b>☆ 3B - 2022 ☆</b>
 
 <b>Programação de Aplicativos</b>
 
