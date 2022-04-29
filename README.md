@@ -64,10 +64,13 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 <b>Modelagem de Sistemas</b>
 
 * [Diagrama Guru do Amor](https://drive.google.com/file/d/19mNDhO8V3UjURRhF0zd_1pq5vCdJ60O8/view?usp=sharing)
+> citação
 * [Diagrama Jogos Vorazes](https://drive.google.com/file/d/1kQtca4oFuFixPmKLCs-GfXmU0d9LL5as/view?usp=sharing)
+> citação
 * [Códigos do REPLIT](https://replit.com/@aklice/RespectfulLastingDeal#presidiário/Pessoa.java)
+> citação
 * [Figma de Agiotagem](https://www.figma.com/proto/OPSvyCtBvQAax7GFAglPk6/agiotagem?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
-* > citação
+> citação
 
 ## <b>☆ Sobre mim ☆</b>
 
