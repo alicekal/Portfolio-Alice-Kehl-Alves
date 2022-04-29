@@ -33,10 +33,10 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 <b>Lógica de Programação</b>
 
-* [Código Completo Janela NetBeans](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicaprogramacao/codigocompletojanela.java)
-* []()
-* []()
-* []()
+* [Código Janela NetBeans (parte 1)](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicaprogramacao/codigojanela1.java)
+* [Código Janela NetBeans (parte 2)](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicaprogramacao/codigojanela2.java)
+* [Código Janela NetBeans (parte 3)](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicaprogramacao/codigojanela3.java)
+* [Código Janela NetBeans (parte 4)](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicaprogramacao/codigojanela4.java)
 
 <b>Banco de Dados</b>
 
