@@ -40,10 +40,11 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 <b>Fundamentos de Design</b>
 
-* []()
-* []()
-* []()
-* []()
+* [Primeiro Design](https://www.figma.com/proto/8KdKmTbdq6AXI5nEB3qYOW/primeiro-design?node-id=1%3A6&starting-point-node-id=1%3A6)
+* [Agenda Online](https://www.figma.com/proto/dfOGOBUkezAaxtkUsHLJjV/AgendaOnline?node-id=10%3A237&starting-point-node-id=10%3A237)
+* [Paleta de Cores LEGO](https://docs.google.com/presentation/d/1zOdABBv0wKRFKAig5i6EsfqcoAUHNa-XNJmkFGU731Q/edit?usp=sharing)
+* [Interface LEGO](https://www.figma.com/proto/biLt1rWeS4LdMx0SwJ7LIJ/LEGO-INTERFACE?node-id=2%3A4&starting-point-node-id=2%3A4)
+
 
 <b>Fundamentos de Redes de Computadores</b>
 
