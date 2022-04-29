@@ -3,9 +3,23 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 ## <b>☆ 2B - 2021 ☆</b>
 
-<b>Banco de Dados</b>
+<b>Lógica Computacional</b>
 
-* [Atividade de Fixação](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2021/atividadefixação.sql)
+* [Exemplo JOptionPane](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional%3B/joptionpane.java)
+* [Piadas no Java](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional/piadas.java)
+* [Peso Permitido e Multa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional/pesopermitido.java)
+* [Juros Simples e Compostos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional/juros.java)
+
+<b>Fundamentos de Tecnologia da Informação</b>
+
+* [Número Negativo ou Positivo](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/tree/main/fundamentosTI)
+* [Avaliação Prática](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/fundamentosTI/exemplos)
+* [Idade Permitida para Votar](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/fundamentosTI/permissaovotar.sh)
+* [Valores Produtos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/fundamentosTI/valoresprodutos.sh)
+
+<b>Fundamentos de Redes de Computadores</b>
+
+* []()
 * []()
 * []()
 * []()
@@ -17,31 +31,16 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * [Paleta de Cores LEGO](https://docs.google.com/presentation/d/1zOdABBv0wKRFKAig5i6EsfqcoAUHNa-XNJmkFGU731Q/edit?usp=sharing)
 * [Interface LEGO](https://www.figma.com/proto/biLt1rWeS4LdMx0SwJ7LIJ/LEGO-INTERFACE?node-id=2%3A4&starting-point-node-id=2%3A4)
 
-
-<b>Fundamentos de Redes de Computadores</b>
-
-* []()
-* []()
-* []()
-* []()
-
-<b>Fundamentos de Tecnologia da Informação</b>
-
-* [Número Negativo ou Positivo](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/tree/main/fundamentosTI)
-* [Avaliação Prática](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/fundamentosTI/exemplos)
-* [Idade Permitida para Votar](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/fundamentosTI/permissaovotar.sh)
-* [Valores Produtos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/fundamentosTI/valoresprodutos.sh)
-
-<b>Lógica Computacional</b>
-
-* [Exemplo JOptionPane](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional%3B/joptionpane.java)
-* [Piadas no Java](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional/piadas.java)
-* [Peso Permitido e Multa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional/pesopermitido.java)
-* [Juros Simples e Compostos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicacomputacional/juros.java)
-
 <b>Lógica de Programação</b>
 
 * [Código Completo Janela NetBeans](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/logicaprogramacao/codigocompletojanela.java)
+* []()
+* []()
+* []()
+
+<b>Banco de Dados</b>
+
+* [Atividade de Fixação](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2021/atividadefixação.sql)
 * []()
 * []()
 * []()
