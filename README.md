@@ -56,10 +56,10 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 <b>Banco de Dados</b>
 
-* [Atividade Avaliativa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados/atividadeavaliativa.sql)
+* [Atividade Avaliativa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2022/atividadeavaliativa.sql)
 * [Atividade Zoológico Diagrama ER](https://drive.google.com/file/d/1MBtlV1-zTDEbebQYTb5h0m1D83Nk-EHb/view?usp=sharing)
-* [Atividade Zoológico](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados/codigoszoologico.sql)
-* [Trabalho Museu Códigos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados/atividademuseu.sql)
+* [Atividade Zoológico](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2022/codigoszoologico.sql)
+* [Trabalho Museu Códigos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2022/atividademuseu.sql)
 
 <b>Modelagem de Sistemas</b>
 
