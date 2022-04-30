@@ -52,15 +52,14 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * A [Atividade Tela Celular](https://docs.google.com/document/d/1Mel3yRDw8KxHC-U3wjfd6tEzG489Xllf7mPvWtlEh8s/edit?usp=sharing) mostra prints do projeto que retorna a mensagem que for escrita do EditText disponível.
 * Na [Calculadora Geometria Espacial](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/ColaGeometriaEspacial%20(1).zip), é possível calcular vários tipos de área e volume com as variáveis determinadas pelo usuário.
 * O projeto de [Cadastro de Perfis](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/vanessa.zip) foi o primeiro trabalho concluído que realizamos, sendo assim bastante importante.
-* A [Randomização de Dados](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/Random.zip) é um projeto que retorna um número aleatório de 1-N, com direito a ImageView com a quantidade do resultado.
+* A [Randomização de Dados](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/Random.zip) é um projeto que retorna um número aleatório de 1-N, com uma ImageView com o número resultante.
 
 <b>Banco de Dados</b>
 
-* [Atividade Avaliativa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2022/atividadeavaliativa.sql)
-* [Atividade Zoológico Diagrama ER](https://drive.google.com/file/d/1MBtlV1-zTDEbebQYTb5h0m1D83Nk-EHb/view?usp=sharing)
-* [Atividade Zoológico](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2022/codigoszoologico.sql)
-* [Trabalho Museu Códigos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2022/atividademuseu.sql)
->
+* A [Atividade Avaliativa](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2022/atividadeavaliativa.sql) dessa matéria foi bastante desafiadora, mas consegui fazer e acertar todas as questões.
+* A [Atividade Zoológico Diagrama ER](https://drive.google.com/file/d/1MBtlV1-zTDEbebQYTb5h0m1D83Nk-EHb/view?usp=sharing) foi a primeira parte de um trabalho bem longo e completo.
+* A segunda parte da [Atividade Zoológico](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2022/codigoszoologico.sql) foi a transmissão do diagrama para código SQL, no PGAdmin.
+* Realizar o [Trabalho Museu Códigos](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/bancodedados2022/atividademuseu.sql) foi uma tarefa difícil e interessante, pois vimos como é trabalhar, na prática, com Banco de Dados.
 
 <b>Modelagem de Sistemas</b>
 
