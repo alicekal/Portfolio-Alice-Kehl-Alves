@@ -49,10 +49,10 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 <b>Programação de Aplicativos</b>
 
-* [Atividade Tela Celular](https://docs.google.com/document/d/1Mel3yRDw8KxHC-U3wjfd6tEzG489Xllf7mPvWtlEh8s/edit?usp=sharing)
-* [Calculadora Geometria Espacial](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/ColaGeometriaEspacial%20(1).zip)
-* [Cadastro de Perfis](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/vanessa.zip)
-* [Randomização de Dados](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/Random.zip)
+* A [Atividade Tela Celular](https://docs.google.com/document/d/1Mel3yRDw8KxHC-U3wjfd6tEzG489Xllf7mPvWtlEh8s/edit?usp=sharing) mostra prints do projeto que retorna a mensagem que for escrita do EditText disponível.
+* Na [Calculadora Geometria Espacial](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/ColaGeometriaEspacial%20(1).zip), é possível calcular vários tipos de área e volume com as variáveis determinadas pelo usuário.
+* O projeto de [Cadastro de Perfis](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/vanessa.zip) foi o primeiro trabalho concluído que realizamos, sendo assim bastante importante.
+* A [Randomização de Dados](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/main/programaçãoaplicativos/Random.zip) feita nas últimas aulas do Trimestre retornam um número aleatório de 1-N, com direito a ImageView com a quantidade do resultado.
 
 <b>Banco de Dados</b>
 
