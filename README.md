@@ -64,18 +64,10 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 <b>Modelagem de Sistemas</b>
 
-* O [Diagrama Guru do Amor](https://drive.google.com/file/d/19mNDhO8V3UjURRhF0zd_1pq5vCdJ60O8/view?usp=sharing) foi um dos primeiros diagramas que fizemos individualmente, e é relacionado ao diagrama UML, responsável pela parte principal da modelagem de sistemas.
+* O [Diagrama Guru do Amor](https://drive.google.com/file/d/19mNDhO8V3UjURRhF0zd_1pq5vCdJ60O8/view?usp=sharing) foi um dos primeiros diagramas UML que fizemos individualmente.
 * O [Diagrama Jogos Vorazes](https://drive.google.com/file/d/1kQtca4oFuFixPmKLCs-GfXmU0d9LL5as/view?usp=sharing) foi uma atividade de revisão para uma das Avaliações do Trimestre.
 * Todos os [Códigos do REPLIT](https://replit.com/@aklice/RespectfulLastingDeal#presidiário/Pessoa.java) produzidos nesse Trimestre.
-* Produção do [Figma sobre Agiotagem](https://www.figma.com/proto/OPSvyCtBvQAax7GFAglPk6/agiotagem?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2), explorando uma área de design que não praticávamos há muito tempo
-
-<b>Modelagem de Sistemas</b>
-
-* [Diagrama Guru do Amor](https://drive.google.com/file/d/19mNDhO8V3UjURRhF0zd_1pq5vCdJ60O8/view?usp=sharing)
-* [Diagrama Jogos Vorazes](https://drive.google.com/file/d/1kQtca4oFuFixPmKLCs-GfXmU0d9LL5as/view?usp=sharing)
-* [Códigos do REPLIT](https://replit.com/@aklice/RespectfulLastingDeal#presidiário/Pessoa.java)
-* [Figma de Agiotagem](https://www.figma.com/proto/OPSvyCtBvQAax7GFAglPk6/agiotagem?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
-> As atividades 1 e 2 são relacionadas a diagramas UML de diferentes temas; os códigos do REPLIT na atividade 3 referem-se a transferência para .java de diagramas feitos anteriormente; o Figma da atividade 4 foi uma simulação de aplicativo para cadastro e processos de agiotagem. Os diagramas são responsáveis pela parte principal da modelagem de sistemas,e servem para organizar melhor o código, a atividade do Figma foi interessante pois explorou uma área de design que não praticávamos há muito tempo, e o java não é nada do que já não tenhamos visto ano passado, mas reforça e fixa o conteúdo nas nossas cabeças. 
+* Produção do [Figma sobre Agiotagem](https://www.figma.com/proto/OPSvyCtBvQAax7GFAglPk6/agiotagem?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2), explorando uma área de design que não praticávamos há muito tempo.
 
 ## <b>☆ Sobre mim ☆</b>
 
