@@ -95,3 +95,5 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * <b>Boa relação com o design</b>, visto que tenho facilidade ao usar aplicativos para isso e tenho boa noção de cores e combinações.
 * <b>Boa em liderança</b>, conseguindo organizar grupos e trabalhos e, geralmente, ser a pessoa que divide os papéis e ajuda as outras pessoas.
 * <b>Comunicativa e fácil de socialização</b>, auxiliando em apresentação de trabalhos e projetos e facilitando a convivência em equipe.
+
+![Snake animation](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/output/github-contribution-grid-snake.svg)
