@@ -75,7 +75,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * Palhoça, Santa Catarina.
 * Contato: alice_k_alves@estudante.sc.senai.br.
 * Cursou o 3º ano do Ensino Médio integrado a Desenvolvimentos de Sistemas.
-* Cursando graduação em Engenharia Mecatrônica no IFSC.
+* Cursando a graduação em Engenharia Mecatrônica no IFSC.
 * Focada, esforçada e criativa.
 
 ## Formação Acadêmica
@@ -83,7 +83,7 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * (2010 - 2019) <b>Centro Educacional Atlas</b>.
 * (2019 - 2020) <b>Colégio Elcana</b>.
 * (2020 - 2022) <b>Escola S</b>.
-* (2023 - 2028) <b>IFSC<b>
+* (2023 - 2028) <b>IFSC<b>.
 
 ## Habilidades
 
