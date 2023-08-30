@@ -68,6 +68,10 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * Todos os [Códigos do REPLIT](https://replit.com/@aklice/RespectfulLastingDeal#presidiário/Pessoa.java) produzidos nesse Trimestre.
 * Produção do [Figma sobre Agiotagem](https://www.figma.com/proto/OPSvyCtBvQAax7GFAglPk6/agiotagem?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2), explorando uma área de design que não praticávamos há muito tempo.
 
+## <b>☆ IFSC - 2023 ☆</b>
+
+* Primeira questão da Prova I de Programação I de condicionais em <\b>programação C<\b> [Link página](https://replit.com/@AliceKehl/primeira-questao)
+
 ## <b>☆ Sobre mim ☆</b>
 
 * Alice Kehl Alves.
