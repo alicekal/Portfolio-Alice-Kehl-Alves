@@ -70,7 +70,10 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 ## <b>☆ IFSC - 2023 ☆</b>
 
-* Primeira questão da Prova I de Programação I de condicionais em <\b>programação C<\b> [Link página](https://replit.com/@AliceKehl/primeira-questao)
+* Questão 1 da Prova I de Programação I de sequencial em <b>programação C<\b> [Link página](https://replit.com/@AliceKehl/primeira-questao)
+* Questão 2 da Prova I de Programação I de sequencial em <b>programação C<\b> [Link página](https://replit.com/@AliceKehl/segunda-questao)
+* Questão 3 da Prova I de Programação I de sequencial em <b>programação C<\b> [Link página](https://replit.com/@AliceKehl/terceira-questao)
+* Questão sobre idade em Programação I de condicional em <b>programação C<\b> [Link página](https://replit.com/@AliceKehl/condicionais1)
 
 ## <b>☆ Sobre mim ☆</b>
 
