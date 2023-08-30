@@ -70,11 +70,12 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 ## <b>☆ IFSC - 2023 ☆</b>
 
-* Questão 1 da primeira avaliação de Programação I de sequencial em [programação C](https://replit.com/@AliceKehl/primeira-questao).
-* Questão 2 da primeira avaliação de Programação I de sequencial em [programação C](https://replit.com/@AliceKehl/segunda-questao).
-* Questão 3 da primeira avaliação de Programação I de sequencial em [programação C](https://replit.com/@AliceKehl/terceira-questao).
-* Questão sobre idade em Programação I de condicional em [programação C](https://replit.com/@AliceKehl/condicionais1).
-* Questão sobre média aritmética em Programação I de condicional em [programação C](https://replit.com/@AliceKehl/condicionais1).
+* PRG22302 - Questão 1 da primeira avaliação de sequencial em [programação C](https://replit.com/@AliceKehl/primeira-questao).
+* PRG22302 - Questão 2 da primeira avaliação de sequencial em [programação C](https://replit.com/@AliceKehl/segunda-questao).
+* PRG22302 - Questão 3 da primeira avaliação de sequencial em [programação C](https://replit.com/@AliceKehl/terceira-questao).
+* PRG22302 - Questão sobre idade em condicional em [programação C](https://replit.com/@AliceKehl/condicionais1).
+* PRG22302 - Questão sobre média aritmética em condicional em [programação C](https://replit.com/@AliceKehl/condicionais1).
+* PRG22302 - Questão sobre tipos de triângulo em condicional em [programação C](https://replit.com/@AliceKehl/condicionais3).
 
 ## <b>☆ Sobre mim ☆</b>
 
