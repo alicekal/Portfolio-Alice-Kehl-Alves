@@ -100,12 +100,14 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 
 ## <b>☆ IFSC - 2023 ☆</b>
 
-* PRG22302 - Questão 1 da primeira avaliação de sequencial em [programação C](https://replit.com/@AliceKehl/primeira-questao).
-* PRG22302 - Questão 2 da primeira avaliação de sequencial em [programação C](https://replit.com/@AliceKehl/segunda-questao).
-* PRG22302 - Questão 3 da primeira avaliação de sequencial em [programação C](https://replit.com/@AliceKehl/terceira-questao).
-* PRG22302 - Questão sobre idade em condicional em [programação C](https://replit.com/@AliceKehl/condicionais1).
-* PRG22302 - Questão sobre média aritmética em condicional em [programação C](https://replit.com/@AliceKehl/condicionais1).
-* PRG22302 - Questão sobre tipos de triângulo em condicional em [programação C](https://replit.com/@AliceKehl/condicionais3).
-* PRG22302 - Questão sobre formação de triângulo em condicional em [programação C](https://replit.com/@AliceKehl/condicionais4).
+<b>Programação I</b>
+
+* [Questão 1](https://replit.com/@AliceKehl/primeira-questao) da primeira avaliação de sequencial na programação C.
+* [Questão 2](https://replit.com/@AliceKehl/segunda-questao) da primeira avaliação de sequencial na programação C.
+* [Questão 3](https://replit.com/@AliceKehl/terceira-questao) da primeira avaliação de sequencial na programação C.
+* Questão sobre [idade](https://replit.com/@AliceKehl/condicionais1) em condicional na programação C.
+* Questão sobre [média aritmética](https://replit.com/@AliceKehl/condicionais2) em condicional na programação C.
+* Questão sobre [tipos de triângulo](https://replit.com/@AliceKehl/condicionais3) em condicional na programação C.
+* Questão sobre [formação de triângulos](https://replit.com/@AliceKehl/condicionais4) em condicional na programação C.
 
 ![Snake animation](https://github.com/alicekal/Portfolio-Alice-Kehl-Alves/blob/output/github-contribution-grid-snake.svg)
