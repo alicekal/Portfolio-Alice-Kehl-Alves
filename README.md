@@ -76,13 +76,14 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 * PRG22302 - Questão sobre idade em condicional em [programação C](https://replit.com/@AliceKehl/condicionais1).
 * PRG22302 - Questão sobre média aritmética em condicional em [programação C](https://replit.com/@AliceKehl/condicionais1).
 * PRG22302 - Questão sobre tipos de triângulo em condicional em [programação C](https://replit.com/@AliceKehl/condicionais3).
+* PRG22302 - Questão sobre formação de triângulo em condicional em [programação C](https://replit.com/@AliceKehl/condicionais4).
 
 ## <b>☆ Sobre mim ☆</b>
 
 * Alice Kehl Alves.
 * 18 anos.
 * Palhoça, Santa Catarina.
-* Contato: alice_k_alves@estudante.sc.senai.br.
+* Contato: alice_k_alves@estudante.sc.senai.br ou alice.ka@aluno.ifsc.edu.br.
 * Cursou o 3º ano do Ensino Médio integrado a Desenvolvimentos de Sistemas.
 * Cursando a graduação em Engenharia Mecatrônica no IFSC.
 * Focada, esforçada e criativa.
