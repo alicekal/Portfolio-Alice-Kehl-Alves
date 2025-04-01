@@ -4,9 +4,9 @@ Um documento para reunir habilidades e códigos adquiridos ao longo do ano, rela
 ## <b>☆ Sobre mim ☆</b>
 
 * Alice Kehl Alves.
-* 18 anos.
+* 19 anos.
 * Palhoça, Santa Catarina.
-* Contato: alice_k_alves@estudante.sc.senai.br ou alice.ka@aluno.ifsc.edu.br.
+* Contato: alice.ka@aluno.ifsc.edu.br.
 * Cursou o 3º ano do Ensino Médio integrado a Desenvolvimentos de Sistemas.
 * Cursando a graduação em Engenharia Mecatrônica no IFSC.
 * Focada, esforçada e criativa.
